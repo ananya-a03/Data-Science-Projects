@@ -1,6 +1,5 @@
 # 🧠 Data Science Projects Repository
-
-Welcome to my Data Science Projects Repository!  
+ 
 This collection showcases various supervised and unsupervised learning techniques, ensemble methods, and an introduction to time series analysis. Each project includes code, explanations, and relevant datasets (where applicable).
 
 ---
@@ -72,8 +71,3 @@ A preliminary exploration of time series forecasting techniques used to analyze 
 - To explore model evaluation techniques.
 - To practice and improve end-to-end project structure and documentation.
 
----
-
-## 📬 Contact
-If you have any suggestions or feedback, feel free to reach out!  
-Happy Learning! 🚀
